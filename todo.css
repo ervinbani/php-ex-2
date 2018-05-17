@@ -1,0 +1,19 @@
+.completed {
+    color:green;
+}
+.completed:hover{
+    background:lightgrey;
+    width:auto;
+}
+
+.not-completed {
+  color:red;
+  cursor: pointer;
+}
+.not-completed:hover{
+    background:lightgrey;
+    width:auto;
+}
+.del{
+    color:white;
+}
